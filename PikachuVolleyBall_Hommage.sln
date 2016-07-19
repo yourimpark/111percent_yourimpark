@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7EE51292-071B-C1C9-CC48-7813B71B6B20}") = "PikachuVolleyBall_Hommage", "Assembly-CSharp.csproj", "{6F714064-15C7-7B13-BE5E-C2AC9E80B24D}"
+EndProject
+Project("{7EE51292-071B-C1C9-CC48-7813B71B6B20}") = "PikachuVolleyBall_Hommage", "Assembly-CSharp-Editor.csproj", "{1EA8D801-C20A-3DAC-085A-4134734841EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F714064-15C7-7B13-BE5E-C2AC9E80B24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F714064-15C7-7B13-BE5E-C2AC9E80B24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F714064-15C7-7B13-BE5E-C2AC9E80B24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F714064-15C7-7B13-BE5E-C2AC9E80B24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA8D801-C20A-3DAC-085A-4134734841EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA8D801-C20A-3DAC-085A-4134734841EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA8D801-C20A-3DAC-085A-4134734841EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA8D801-C20A-3DAC-085A-4134734841EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

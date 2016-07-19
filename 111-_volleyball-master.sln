@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{77F1E1A7-F9D9-C2ED-99C7-1381F974561B}") = "111-_volleyball-master", "Assembly-CSharp.csproj", "{2AD6A1DF-4A7B-B7AD-0A14-C24620317F5E}"
+EndProject
+Project("{77F1E1A7-F9D9-C2ED-99C7-1381F974561B}") = "111-_volleyball-master", "Assembly-CSharp-Editor.csproj", "{A70E9618-884B-1DC9-2EBF-915C36C7A4B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD6A1DF-4A7B-B7AD-0A14-C24620317F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD6A1DF-4A7B-B7AD-0A14-C24620317F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD6A1DF-4A7B-B7AD-0A14-C24620317F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD6A1DF-4A7B-B7AD-0A14-C24620317F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70E9618-884B-1DC9-2EBF-915C36C7A4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70E9618-884B-1DC9-2EBF-915C36C7A4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70E9618-884B-1DC9-2EBF-915C36C7A4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70E9618-884B-1DC9-2EBF-915C36C7A4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
