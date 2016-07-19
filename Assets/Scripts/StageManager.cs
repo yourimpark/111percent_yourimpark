@@ -34,13 +34,13 @@ public class StageManager : MonoBehaviour {
 	{
 		switch (level) {
 		case 1:
-			SetLevelInfoData (12, 6, 15f, 0.2f, 2);
+			SetLevelInfoData (12, 6, 15f, 0.3f, 2);
 			break;
 		case 2:
-			SetLevelInfoData (14, 5, 16f, 0.18f, 5);
+			SetLevelInfoData (14, 6, 15f, 0.2f, 5);
 			break;
 		case 3:
-			SetLevelInfoData (16, 6, 17f, 0.2f, 10);
+			SetLevelInfoData (16, 7, 17f, 0.2f, 10);
 			break;
 		case 4:
 			SetLevelInfoData (19, 7, 18f, 0.14f, 100);
